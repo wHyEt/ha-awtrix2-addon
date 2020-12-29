@@ -1,0 +1,17 @@
+{
+    "name": "Awtrix",
+    "version": "1",
+    "slug": "awtrix",
+    "description": "Awtrix",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "startup": "before",
+    "boot": "auto",
+    "options": {},
+    "schema": {},
+    "ports": {
+      "7000/tcp": 7000
+	  "7001/tcp": 7001
+  }
+}
+
+
